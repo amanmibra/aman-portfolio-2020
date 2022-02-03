@@ -6,9 +6,16 @@ import HomeBody from './../components/home';
 class Home extends Component {
 
   render() {
+    const widths = [window.innerWidth];
+
+    if (window.screen?.width) {
+      widths.push(window.screen?.width);
+    }
+
+    const width = Math.min(...widths);
     return (
       <div>
-        { window.innerWidth <= 760 ?
+        { width <= 760 ?
           <Redirect to="/about" />
           :
           <HomeBody />

@@ -49,42 +49,44 @@ class HomeBody extends Component {
           </div>
           <br />
           <div>
-            <Button
-              icon
-              color="blue"
-              href="/about"
-              labelPosition="left"
-            >
-              <Icon name="user" />
-              About Me
-            </Button>
-            <Button
-              icon
-              color="blue"
-              href="/experience"
-              labelPosition="left"
-            >
-              <Icon name="briefcase" />
-              My Experience
-            </Button>
-            <Button
-              icon
-              color="blue"
-              href="/projects"
-              labelPosition="left"
-            >
-              <Icon name="code" />
-              My Projects
-            </Button>
-            <Button
-              icon
-              color="blue"
-              href="/resume"
-              labelPosition="left"
-            >
-              <Icon name="file alternate" />
-              My Resume
-            </Button>
+            <Button.Group>
+              <Button
+                icon
+                color="blue"
+                href="/about"
+                labelPosition="left"
+              >
+                <Icon name="user" />
+                About Me
+              </Button>
+              <Button
+                icon
+                color="blue"
+                href="/experience"
+                labelPosition="left"
+              >
+                <Icon name="briefcase" />
+                My Experience
+              </Button>
+              <Button
+                icon
+                color="blue"
+                href="/projects"
+                labelPosition="left"
+              >
+                <Icon name="code" />
+                My Projects
+              </Button>
+              <Button
+                icon
+                color="blue"
+                href="/resume"
+                labelPosition="left"
+              >
+                <Icon name="file alternate" />
+                My Resume
+              </Button>
+            </Button.Group>
             <div className="App-footer">
               <p>
                 Made with
