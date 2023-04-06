@@ -16,10 +16,7 @@ class Resume extends Component {
         <NavBar />
         <div className="page-body">
           <Container fluid textAlign="center">
-            <p>
-              To download a copy, click the menu button <Image src={btn} style={{ display: 'inline'}} size="mini"/> below.
-            </p>
-            <iframe src="https://onedrive.live.com/embed?cid=DDBC24E3C0D79D42&resid=DDBC24E3C0D79D42%21627700&authkey=AE1qpC2-Lyl-8cY&em=2" width={"750px"} height={"1050px"} frameborder="0" scrolling="no" style={{ border: '1px solid black' }}></iframe>
+            <iframe src="https://drive.google.com/file/d/12Hu-o_By8EYpcSXho0Wvk-n6TQOi9tL9/preview" width={"750px"} height={"1050px"} allow="autoplay"></iframe>
           </Container>
         </div>
       </div>
