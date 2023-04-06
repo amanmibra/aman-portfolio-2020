@@ -12,6 +12,7 @@ import {
 import NavBar from './../components/navbar';
 
 import * as aman from './../images/aman.jpeg';
+import * as profile_aman from './../images/profile_aman.png';
 
 // other aman images
 import * as img1 from './../images/profile/1.jpg';
@@ -68,7 +69,7 @@ class About extends Component {
     this.state = {
       all: all,
       good: good,
-      profile: good[Math.floor(Math.random()*good.length)],
+      profile: profile_aman,
     }
   }
 
