@@ -38,7 +38,7 @@ class CodingItems extends Component {
               </Item.Header>
               <Item.Meta>Duke vs UNC Basketball Tenting Scheduling for Duke Students</Item.Meta>
               <Item.Description>
-                <Icon name="calendar outline"/> February 2018 - Ongoing
+                <Icon name="calendar outline"/> February 2018 - February 2023 <b>(Currently owned by DAML student group)</b>
               </Item.Description>
               <Item.Description>
                 GTHC is a web-based scheduling tool for Duke Krzyzewskiville tenters. This platform prioritizes ease of use, organization, optimization, and collaboration for each tenter. In a single glance, GTHC will tell you the important details of your team's shifts, and with a few clicks, your team will know who, when, and what about any and all of your shifts. GTHC will also bring you updates from your team, the line monitors, and any important K-Ville news. Our end goal is to make life as a tenter easier. GTHC has had over 4000 unique visitors to our site and hundreds of Duke students consistently using our plaform over the 2019 and 2020 men's basketball seasons.
@@ -83,9 +83,6 @@ class CodingItems extends Component {
             <Item.Content>
               <Item.Header>
                 ActFor
-                <a style={{ marginLeft: '4px'}} href="https://actfor.us" target="_blank">
-                  <Icon name="linkify"/>
-                </a>
                 <a style={{ marginLeft: '4px'}} href="https://github.com/amanmibra/actfor" target="_blank">
                   <Icon name="github"/>
                 </a>
@@ -94,7 +91,7 @@ class CodingItems extends Component {
                 Website that builds on the work of activists and encourages action on social justice issues
               </Item.Meta>
               <Item.Description>
-                <Icon name="calendar outline"/> July 2020 - Ongoing
+                <Icon name="calendar outline"/> July 2020 - April 2021
               </Item.Description>
               <Item.Description>
                 The purpose of this website is to highlight the voices of activists on issues we care about and to encourage the everyday citizen to take action. We noticed that many people speak passionately about a variety of issues on social media, and we wanted to help everyone take the next step by translating education into action. In regards to these issues, our website is an easy and accessible way to consolidate information, contact officials, donate, and keep track of upcoming elections.
