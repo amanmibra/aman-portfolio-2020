@@ -11,12 +11,15 @@ class HomeBody extends Component {
     const initString = 'I am <b>Aman Ibrahim</b>, a software engineer. <br /> I am also a'
 
     const strings = [
-      `${initString} Muslim.`,
-      `${initString} Manchester United fan.`,
-      `${initString} Mustang S197 owner.`,
-      `${initString} Duke Blue Devil.`,
-      `${initString} tech enthusiast.`,
-      `${initString} North Carolinian.`,
+      // `${initString} Muslim.`,
+      // `${initString} Manchester United fan.`,
+      // `${initString} Mustang S197 owner.`,
+      // `${initString} Duke Blue Devil.`,
+      // `${initString} tech enthusiast.`,
+      // `${initString} North Carolinian.`,
+      `${initString} a tinkerer.`,
+      `${initString} a builder.`,
+      `${initString} a founder.`,
       `${initString} student learning everyday.`
     ]
     return (
