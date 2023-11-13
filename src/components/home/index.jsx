@@ -17,9 +17,9 @@ class HomeBody extends Component {
       // `${initString} Duke Blue Devil.`,
       // `${initString} tech enthusiast.`,
       // `${initString} North Carolinian.`,
-      `${initString} a tinkerer.`,
-      `${initString} a builder.`,
-      `${initString} a founder.`,
+      `${initString} tinkerer.`,
+      `${initString} builder.`,
+      `${initString} founder.`,
       `${initString} student learning everyday.`
     ]
     return (
