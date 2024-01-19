@@ -82,7 +82,7 @@ class ResearchItems extends Component {
                 <Icon name="calendar outline"/> May 2017 - August 2017
               </Item.Description>
               <Item.Description>
-                Helped build and lead the web development on the web platform built for pallative car patients. Managed all data on NoSQL Firebase database.
+                Helped build and lead the web development on the web platform built for pallative care patients. Managed all data on NoSQL Firebase database.
               </Item.Description>
               <Item.Extra>Skills: React, Firebase</Item.Extra>
             </Item.Content>
